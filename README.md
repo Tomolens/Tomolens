@@ -1,4 +1,4 @@
-<h1 align="left">The name is Thomas (Tomolens)</h1>
+<h1 align="left">The name is Tomasz (Tomolens)</h1>
 <h3 align="left">An aspiring Computer Science Student</h3>
 and a green tea enjoyer
 <br>
